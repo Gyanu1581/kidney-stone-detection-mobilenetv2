@@ -13,3 +13,4 @@ model/*.keras
 dataset/
 yes/
 model/
+Miniconda3-latest-MacOSX-arm64.sh
