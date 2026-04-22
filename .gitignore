@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+dataset_raw/
+model/*.h5
+model/*.keras
+dataset/
+yes/
