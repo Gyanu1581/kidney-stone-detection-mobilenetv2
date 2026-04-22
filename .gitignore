@@ -12,3 +12,4 @@ model/*.h5
 model/*.keras
 dataset/
 yes/
+model/
